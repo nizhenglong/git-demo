@@ -9,5 +9,8 @@ hello 000r
 hello 000r
 hello 000r
 hello 000r
-hello 000r  master test
-hello 000r
+<<<<<<< HEAD
+hello 000r  master text
+=======
+hello 000r hot-fix test
+>>>>>>> hot-fix
